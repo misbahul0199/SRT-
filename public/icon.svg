@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="128" fill="#0f172a" />
+  <circle cx="256" cy="256" r="190" stroke="#059669" stroke-width="8" stroke-dasharray="16 12" opacity="0.4" />
+  
+  <!-- Subtitle Screen Frame -->
+  <rect x="86" y="110" width="340" height="240" rx="32" fill="#1e293b" stroke="#10b981" stroke-width="12" />
+  
+  <!-- Waveform lines -->
+  <rect x="130" y="200" width="16" height="60" rx="8" fill="#34d399" />
+  <rect x="160" y="170" width="16" height="120" rx="8" fill="#10b981" />
+  <rect x="190" y="150" width="16" height="160" rx="8" fill="#059669" />
+  <rect x="220" y="180" width="16" height="100" rx="8" fill="#34d399" />
+  <rect x="250" y="160" width="16" height="140" rx="8" fill="#10b981" />
+  <rect x="280" y="190" width="16" height="80" rx="8" fill="#34d399" />
+  <rect x="310" y="170" width="16" height="120" rx="8" fill="#10b981" />
+  <rect x="340" y="205" width="16" height="50" rx="8" fill="#059669" />
+  <rect x="370" y="215" width="16" height="30" rx="8" fill="#34d399" />
+
+  <!-- Subtitle Badge Strip -->
+  <rect x="120" y="300" width="272" height="36" rx="10" fill="#0f172a" stroke="#334155" stroke-width="4" />
+  <rect x="144" y="312" width="120" height="12" rx="6" fill="#fbbf24" />
+  <rect x="274" y="312" width="94" height="12" rx="6" fill="#e2e8f0" />
+
+  <!-- CC / SubSync Text Pill at bottom -->
+  <rect x="156" y="390" width="200" height="54" rx="27" fill="#10b981" />
+  <text x="256" y="426" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="28" font-weight="900" fill="#ffffff" letter-spacing="2">SUBSYNC</text>
+</svg>
